@@ -6,4 +6,4 @@
 <h1>General Info</h1>
 <li>There are 78 characters</li>
 <li>Number of the characters can manually be adjusted</li>
-<li>Just because it is named as "PasswordGen" it does not mean its sole purpose is to generate passwords, but this codes can be implemented to generate unique IDs, tokens, etc.</li>
+<li>Just because it is named as "PasswordGen" it does not mean its sole purpose is to generate passwords per se to generate unique IDs, tokens, etc.</li>
